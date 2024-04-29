@@ -21,7 +21,7 @@ Profesional        | Personal
 - 📫 How to reach me ...<br> -[LinkedIn](www.linkedin.com/in/williamscarog) <br>
 -[Twitter](https://twitter.com/Williamscarog)
 
-
+<img src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple2.png?raw=true">
 <!---
 ### Trying Image
 
