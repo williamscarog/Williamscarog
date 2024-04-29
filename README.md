@@ -13,9 +13,6 @@
   <a href="https://github.com/williamscarog"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
-
-
-👋
 - 😎 Pronouns: Hi, Him.
 - 🇩🇴 Country: Dominican Republic.
 - 🏡 Lives: Seoul, korea.
