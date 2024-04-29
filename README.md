@@ -34,10 +34,10 @@ Profesional        | Personal
  Autodidact        | Juan Luis Guerra
 
   🌱 I’m currently Programing more deeply with ***Oracle ONE***, *Cisco Netacad y Python Academy*, Studing enterpheneurship with the UCJC and MESCYT.<br>
-  💞️ I’m looking to collaborate on *bici klok* 😊 mi project.<br>
+  💞️ I’m looking to collaborate on *bici klok* 😊 mi project. <br>
 
   
-                            <img src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
+<img src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
 - 📫 How to reach me: ...
 <br> -[LinkedIn](www.linkedin.com/in/williamscarog)
 <br> -[Twitter](https://twitter.com/Williamscarog)
