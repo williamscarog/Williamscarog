@@ -42,13 +42,13 @@ Profesional        | Personal
 <img align="center" src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
 - 📫 How to reach me: ...
 <br> - [LinkedIn](www.linkedin.com/in/williamscarog)
-<br> - [Twitter](https://twitter.com/Williamscarog)
 
 
 
-<a href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png"/></a> 
 
-<a width="28" href="https://x.com/Williamscarog"><img alt="X Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"/></a> 
+<a href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Linkedin Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png"/></a> 
+
+<br> - [Twitter] <a href="https://x.com/Williamscarog"><img alt="X Profile" title="View X Profile" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg/30px-x_icon.svg.png"/></a> 
 
 <!---
 ### Trying Image
