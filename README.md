@@ -32,12 +32,12 @@ Profesional        | Personal
  Programing        | LIDOM
  Marketing         | Futbol
  Autodidact        | Juan Luis Guerra
-
+<br><br><br>
   🌱 I’m currently Programing more deeply with ***Oracle ONE***, *Cisco Netacad y Python Academy*, Enterpheneurship master on UCJC Spain.<br>
   💞️ I’m looking to collaborators on *bici klok* 😊 own bikeshare system project. <br>
 
   
-<img src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
+<img align="center" src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
 - 📫 How to reach me: ...
 <br> -[LinkedIn](www.linkedin.com/in/williamscarog)
 <br> -[Twitter](https://twitter.com/Williamscarog)
