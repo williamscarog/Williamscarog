@@ -50,7 +50,7 @@ Profesional        | Personal
 !(Linkedin)[www.linkedin.com/in/williamscarog]
 
 
-<a width="10" href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"/></a> 
+<a width="28" href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/10px-LinkedIn_icon.svg.png"/></a> 
 
 <!---
 ### Trying Image
