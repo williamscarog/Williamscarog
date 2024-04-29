@@ -1,4 +1,4 @@
-<img src="https://github.com/williamscarog/Williamscarog/blob/main/Williams%20Caro%20G..gif?raw=true" width="1000">
+<img src="https://github.com/williamscarog/Williamscarog/blob/main/Williams%20Caro%20G..gif?raw=true" width="780">
 
 <h3 align="center">Hey there, I'm <a href="https://williamscarog.github.io/">Williams</a> - aka @williamscarog <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
@@ -42,7 +42,7 @@ Profesional        | Personal
 <img align="center" src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
 - 📫 How to reach me: ...
 
-<a href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Linkedin Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png"/></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Linkedin Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://x.com/Williamscarog"><img width="30" alt="X Profile" title="View X Profile" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"/></a> 
 
 <!---
