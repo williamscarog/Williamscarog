@@ -34,7 +34,7 @@ Profesional        | Personal
  Autodidact        | Juan Luis Guerra
 
   🌱 I’m currently Programing more deeply with ***Oracle ONE***, *Cisco Netacad y Python Academy*, Enterpheneurship master on UCJC Spain.<br>
-  💞️ I’m looking to collaborate on *bici klok* 😊 mi project. <br>
+  💞️ I’m looking to collaborators on *bici klok* 😊 own bikeshare system project. <br>
 
   
 <img src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
