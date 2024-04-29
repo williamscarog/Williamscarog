@@ -41,8 +41,8 @@ Profesional        | Personal
   
 <img align="center" src="https://github.com/williamscarog/Williamscarog/blob/main/pinapple3.png?raw=true">
 - 📫 How to reach me: ...
-<br> -[LinkedIn](www.linkedin.com/in/williamscarog)
-<br> -[Twitter](https://twitter.com/Williamscarog)
+<br> - [LinkedIn](www.linkedin.com/in/williamscarog)
+<br> - [Twitter](https://twitter.com/Williamscarog)
 
 <!---
 ### Trying Image
