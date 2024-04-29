@@ -15,13 +15,15 @@
 
 
 
-- 👋
+👋
 - 😎 Pronouns: Hi, Him.
 - 🇩🇴 Country: Dominican Republic.
 - 🏡 Lives: Seoul, korea.
 - 🎵 Music: Salsa.
 - 👫 Situation: Married
 - 🙋‍♂️ Children: A boy
+
+  <br><br>
 
 
 - 👀 I’m interested in:
