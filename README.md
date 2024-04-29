@@ -43,6 +43,10 @@ Profesional        | Personal
 - 📫 How to reach me: ...
 <br> - [LinkedIn](www.linkedin.com/in/williamscarog)
 <br> - [Twitter](https://twitter.com/Williamscarog)
+
+
+
+
 !(Linkedin)[www.linkedin.com/in/williamscarog]
 
 
