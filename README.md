@@ -48,7 +48,7 @@ Profesional        | Personal
 
 <a href="https://www.linkedin.com/in/williamscarog"><img alt="Linkedin Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/30px-LinkedIn_icon.svg.png"/></a> 
 
-<a href="https://twitter.com/Williamscarog"><img alt="X Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"/></a> 
+<a width="28" href="https://x.com/Williamscarog"><img alt="X Profile" title="View Profile" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"/></a> 
 
 <!---
 ### Trying Image
