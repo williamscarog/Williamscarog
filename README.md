@@ -32,6 +32,9 @@ Profesional        | Personal
  Programing        | LIDOM
  Marketing         | Futbol
  Autodidact        | Juan Luis Guerra
+
+
+ 
 <br><br><br>
   🌱 I’m currently Programing more deeply with ***Oracle ONE***, *Cisco Netacad y Python Academy*, Enterpheneurship master on UCJC Spain.<br>
   💞️ I’m looking to collaborators on *bici klok* 😊 own bikeshare system project. <br>
