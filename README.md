@@ -53,6 +53,8 @@ Profesional        | Personal
 ```<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>```
 --->
 
+[![Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamscarog)](https://github.com/williamscarog/github-readme-stats)
+
 
 <!---
 Williamscaro/Williamscaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
