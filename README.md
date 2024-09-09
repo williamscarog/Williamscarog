@@ -15,7 +15,7 @@
 
 - 😎 Pronouns: Hi, Him.
 - 🇩🇴 Country: Dominican Republic.
-- 🏡 Lives: Seoul, korea.
+- :airplane:  Traveled to: Seoul, South korea; Tokyo, japan; Frankfurt, Germany; Manila, Phillipines; La Paz, Bolivia;
 - 🎵 Music: Salsa.
 - 👫 Situation: Married
 - 🙋‍♂️ Children: A boy
